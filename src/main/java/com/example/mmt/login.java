@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class login {
     @GetMapping("/login")
     public String getData(){
-        return "This is Login Page !!!";
+        return "This is Login Page !!!!!";
     }
 
 }
